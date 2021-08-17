@@ -46,6 +46,11 @@ nav img{
 .wrapper{
 	margin: 24px;
 }
+@media only screen and (min-width: 800px){
+	.wrapper{
+		margin: 48px;
+	}
+}
 header .hero-section{
 	text-align: center;
 	display: grid;
