@@ -83,7 +83,7 @@ header .hero-section span{
 }
 
 .profile-section p{
-	max-width: 800px;
+	max-width: 900px;
 	margin-top: 12px;
 }
 
@@ -111,6 +111,7 @@ header .hero-section span{
 }
 .employment-section ul li{
 	margin-bottom: 6px;
+	max-width: 900px;
 }
 
 
