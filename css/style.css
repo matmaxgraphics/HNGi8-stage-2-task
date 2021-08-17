@@ -11,16 +11,17 @@ h1, h2, h3{
 		font-family: 'Source Code Pro', 		monospace;
 }
 h1{
-	font-size: 48px;
-}
-h2{
 	font-size: 40px;
 }
+h2{
+	font-size: 32px;
+}
+
 h3{
-		font-size: 32px;
+		font-size: 24px;
 }
 h4{
-	font-size: 24px;
+	font-size: 18px;
 	font-family: 'Montserrat', sans-serif;
 }
 
@@ -60,9 +61,12 @@ header .hero-section img{
 	margin-top: 12px;
 }
 header .hero-section .hero-icon{
-	font-size: 24px;
-	color: #;
+	font-size: 16px;
+	color: #333;
 	margin: 12px;
+}
+header .hero-section .hero-icon span{
+	font-family: 'Montserrat', sans-serif !important;
 }
 header .hero-section span{
 	font-size: 16px;
